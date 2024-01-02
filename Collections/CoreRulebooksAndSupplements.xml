@@ -160,4 +160,8 @@
     <doc href="../Sources/TashasCauldronOfEverything/spells-tce.xml" />
     <doc href="../Sources/TashasCauldronOfEverything/spells-phb+tce.xml" />
     <doc href="../Sources/TashasCauldronOfEverything/races-tce.xml" />
+
+    <doc href="../Sources/ValdasSpireOfSecrets/vss-races.xml" />
+    <doc href="../Sources/ValdasSpireOfSecrets/vss-sorcerer.xml" />
+    
 </collection>

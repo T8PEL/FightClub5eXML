@@ -1,0 +1,135 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<compendium version="5">
+	<class>
+		<name>Sorcerer</name>
+	<!-- Sorcerous Origin: Emotion Lord -->	
+		<autolevel level="1">
+			<feature optional="YES">
+				<name>Sorcerous Origin:Emotion Lord</name>
+				<text>Whenever you are filled with heartbreak, terror, or the depths of sorrow, waves of arcane energy spill forth from you. You might have found the spark of magic when great tragedy struck or while you shook with rage, or it may have always lingered in the back of your soul, only erupting forth when you list control. However it originated, controlling your eomtions and knowing yourself is key to manipulating your deep well of arcane energy. To lose focus, to be governed by your emotions, allows all your magic to flow through you in spectacular and uncontrollable fasion. But to have control of yourself, and true understanding of your soul, grants you a breadth of magic few can hope to equal. </text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.247</text>
+			</feature>
+		</autolevel>
+		<autolevel level="1">
+			<feature optional="YES">
+				<name>Emotion Lord: Emotional Magic</name>
+				<text>At 1st level, you learn additional spells when you reach certain levels in this class, as shown on the Emotional Spells table. The list of spells you know from this table changes with your predominant emotional state. These emotions should be informed by your character's history as much as the current situation; however, the GM decides whether or not a situation is appropriate to inspire a specific emotional state. For example, a pitched life-or-death battle is unlikely to inspire love. If your emotions would be cuncertain, choose this state randomly.  </text>
+				<text>Each spell counts as a sorcerer spell for you but doesn't count against the number of sorcerer spells you kow. These spells can't be replaced when you gain a level in this class.</text>
+				<text/>
+				<text>Emotional Spells Table
+				Sorcerer Level | Anger Spells   | Fear Spells         | Joy Spells          | Love Spells  | Sorrow Spells  |
+				1st            | Thunderwave    | Expeditious retreat | Heroism             | Charm Person | Sleep          |
+				3rd            | Scorching Ray  | Invisibility        | Lesser Restoration  | Enthrall     | Silence        |
+				5th            | Lightning Bolt | Fear                | Fly                 | Sending      | Slow           |
+				7th            | Fire Shield    | Phantasmal Killer   | Freedom of Movement | Compulsion   | Banishment     |
+				9th            | Cloudkill      | Mislead             | Greater Restoration | Geas         | Antilife Shell |
+				</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.248</text>
+			</feature>
+		</autolevel>
+		<autolevel level="1">
+			<feature optional="YES">
+				<name>Emotion Lord: Empathy</name>
+				<text>Also at 1st level, you can use your action to probe the surface level of a creature's emotions. You must be able to see the creature, it must be within 30 feet of you, and it must have an Intelligence score of 3 or higher. You learn the creature's emotional state and, at the GM's discretion, one of the creature's Bonds</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.248</text>
+			</feature>
+		</autolevel>
+		<autolevel level="6">
+			<feature optional="YES">
+				<name>Emotion Lord: Mood Swing</name>
+				<text>Starting at 6th level, you can channel great swings of emotional energy at a whim. You can use the following abilities regardless of emotional state</text>
+				<text>Burning Rage. As a bonus action on your turn, you can spend 1 sorcery point to ignite in arcane fury. Until the start of your next turn, when a creature coms within 5 feet of you or starts its turn, or when a creature comes within 5 feet of you or starts its turn there, it must make a Dexterity saving throw against your spell save DC. On a failed save, it takes 2d6 fire damage. </text>
+				<text>Crestfallen. Beset by sorrow, you can spend 2 sorcery points as a bonus action on your turn to fade out the world. Until the start of your next turn, you are visibly transparent, and attack rolls against you have disadvantage. This effect ends early if you are hit by an attack.</text>
+				<text>Flight of Terror. You can spend 1 sorcery point to take the Disengage action as a bonus action on your turn.</text>
+				<text>Heartsick. Overcome by lovesickness, you can use your bonus action and spend 1 sorcery point to end one effect on yourself that is causing you to be charmed or frightened.</text>
+				<text>Moment of Bliss. As a bonus action, you can spend 1 sorcery point to gain a flying speed equal to your walking speed until the end of your turn. If you end your turn in the air without anything holding you aloft, and you are within 30 feet of the ground, you float gently to the ground. Otherwise, you fall.</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.248</text>
+			</feature>
+		</autolevel>
+		<autolevel level="14">
+			<feature optional="YES">
+				<name>Emotion Lord: Shift Temperament</name>
+				<text>At 14th level, you can use your action to bend the emotions of a creature you can see within 60 feet, which must make a Charisma saving throw against your spell save DC. If the creature fails its saving throw, you can use one of the following abilities on it:</text>
+				<text>Charmed. You spend 1 sorcery point, and the creature is charmed by you for 1 minute. This effect ends early if you or your companions do anything harmful to the creature.</text>
+				<text>Frenzied. You spend 3 sorcery points to cause the creature to become frenzied for up to 1 minute. The creature can repeat this saving throw whenever it takes damage, ending the effect on itself on a success.A frenzied creature loses the ability to distinguish between friend and foe, regarding all creatures it can see as enemies. While frenzied, the creature chooses the targets for its attacks, spells, and abilities randomly from among the creatures it can see within range, and it must make an opportunity attack if any creature provokes one.</text>
+				<text>Frightened. You spend 1 sorcery point, and the creature is frightened by you for up to 1 minute. The creature can repeat this saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+				<text>Indifferent. If the creature is hostile towards you, you can spend 2 sorcery points to render it indifferent toward you for up to a minute. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed.</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.248</text>
+			</feature>
+		</autolevel>
+		<autolevel level="18">
+			<feature optional="YES">
+				<name>Emotion Lord: Vibrant Soul</name>
+				<text>By 18th level, you have mastery over your mercurial feelings. You know all of the spells on your Emotional Spells list at all times. Additionally, you learn the spell antipathy/sympathy, which counts as a sorcerer spell for you and doesn't count against your total number of spells known. You can cast this spell by spending 10 sorcery points, instead of using a spell slot.</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.249</text>
+			</feature>
+		</autolevel>
+	<!-- Sourcerous Origin: Mirrorkin -->
+		<autolevel level="1">
+			<feature optional="YES">
+				<name>Sourcerous Origin: Mirrorkin</name>
+				<text>One of your ancestors came from beyond the looking glass; a strange world where everything is a twisted reflection of the true reality. As such, you have inherited amazing powers of mimicry and illusion that allow you to copy other people's abilities. To fight against you is almost akin to fighting one's own mirror image, something few warriors would relish.</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.249</text>
+			</feature>
+		</autolevel>
+		<autolevel level="1">
+			<feature optional="YES">
+				<name>Mirrorkin: Mirror Magic</name>
+				<text>When you choose this origin at 1st level, you can duplicate the magic that affects you. When a spell is cast targeting you or you are in the area of a spell's effect, you can use your reaction to learn that spell. You can't use this ability to learn a spell that had no effect on you, even if it forced you to make a saving throw against it.</text>
+				<text>You can only learn a spell if it is of a level for which you have spell slots. You can learn two 1st-level spells using this ability, which don't count against the total number of sorcerer spells you know. When you gain 2nd, 3rd, 4th, and 5th-level spells, you can learn 2 spells for each of those levels, for a total of 10 additional spells known. The spells learned need not be from the sorcerer spell list, but count as sorcerer spells for you. You can use your action to forget a spell you have learned using this ability.</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.249</text>
+			</feature>
+		</autolevel>
+		<autolevel level="1">
+			<feature optional="YES">
+				<name>Mirrorkin: Mimic Trait</name>
+				<text>Also at 1st level, you gain an uncanny ability to mimic other people. As an action, you can choose a humanoid you can see within 60 feet and gain one trait of your choice that they possess from the following list (even if they only possess it temporarily):</text>
+				<text/>
+				<text> * One special sense, such as darkvision or tremorsense.</text>
+				<text> * One movement speed, such as a swim or climb speed. </text>
+				<text> * One skill, tool, or instrument proficiency.</text>
+				<text> * One damage resistance.</text>
+				<text> * Their accent, verbal tics, and mannerisms.</text> 
+				<text/>
+				<text> You can keep this trait as long as you are within 60 feet of the target, or until you use this ability again. </text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.249</text>
+			</feature>
+		</autolevel>
+		<autolevel level="6">
+			<feature optional="YES">
+				<name>Mirrorkin: Reflect Magic</name>
+				<text>At 6th level, you can turn your skin into a shimmering mirror that reflects magic. When a creature casts a spell that calls for a saving throw to resist its effects and targets you or includes you in its area of effect, you can attempt to reflect the spell's energy back against its caster. Spend a number of sorcery points equal to the spell's level (1 sorcery point for cantrips). If you succeed on your saving throw against the spell, the caster must also make a saving throw against the spell, using their own spell save DC. On a failed save, the caster suffers the effects of the spell as if you had cast it and they had been the original target or been within the area of the spell.</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.249</text>
+			</feature>
+		</autolevel>
+		<autolevel level="14">
+			<feature optional="YES">
+				<name>Mirrorkin: Copycat</name>
+				<text>By 14th level, you have developed your mimicry to the point where you can mirror the unique and powerful abilities of those around you. As an action on your turn, you can perform any action that has been performed within the last minute by a humanoid (other than yourself) that you can see within 60 feet. Any prerequisites that would normally be required for the action (such as brandishing of holy symbols, spending of ki points, or consumption of items) are waived when you use this feature, unless it is a spell or required the use of a spell slot, in which case you must still expend the relevant spell slot and any required expensive material components. If the ability forces targets to make a saving throw, you can use your sorcerer spell save DC.</text>
+				<text/>
+				<text>Once you use this ability, you must finish a long rest before you can use it again.</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.249</text>
+			</feature>
+		</autolevel>
+		<autolevel level="18">
+			<feature optional="YES">
+				<name>Mirrorkin: Perfect Duplicate</name>
+				<text>At 18th level, you can duplicate yourself and others with ease. You learn the spells disguise self and mirror image if you do not know them already, and you can cast them at will without expending a spell slot.</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.249</text>
+			</feature>
+		</autolevel>
+	<!-- Sourcerous Origin: Oozemaster -->
+	</class>
+</compendium>

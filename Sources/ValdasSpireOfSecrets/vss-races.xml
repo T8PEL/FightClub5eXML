@@ -1,0 +1,304 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<compendium version="5">
+ 	<!-- Bisque Geppttin-->
+	<race>
+		<name>Geppettin (Bisque)</name>
+		<size>S</size>
+		<speed>30</speed>
+		<ability>Dex 1, Con 1, Cha 1</ability>
+		<spellAbility></spellAbility>
+		<proficiency>Intimdation</proficiency>
+		<trait>
+			<name>Ability Score Increase</name>
+			<text>Increase one ability score of your choice by 2 and increase a different score by 1, or increase three different scores by 1.</text>
+			<text></text>
+			<text> Typical: Dexterity +1, Constitution +1, Charisma +1</text>
+		</trait>
+		<trait>
+			<name>Creature type</name>
+			<text> You are a Humanoid. However, spells and effects that specifically affect Constructs affect you as well </text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>You are Small </text>
+		</trait>
+		<trait>
+			<name>Speed </name>
+			<text> Your walking speed is 30 feet. </text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Geppettin have superior vision in dim light and darkness. You can see in dim light within 60 feet of you as if it was bright light, and darkness as if it was dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Construct Anatomy</name>
+			<text>Even though you were constructed, you are a living creature. You are immune to nonmagical diseases. You do not need to eat or breathe, but you can ingest food and drink if you wish. </text>
+			<text> </text>
+			<text>Instead of sleeping, you enter an inactive state for 4 hours each day. YOu do not dream in this state; you are fully aware of your surroundings and notice approaching enemies and other events as normal. You can still be placed into a torpor by sleep inducing magic.</text>
+		</trait>
+		<trait>
+			<name>False Appearance</name>
+			<text>While you are motionless, you are indistinguishable from an ordinary porcelain doll.</text>
+		</trait>
+		<trait>
+			<name>Sudden Strike</name>
+			<text>Whenever you deal damage to a creature with a weapon attack roll on your first turn in combat, the creature takes extra damage equal to your proficiency bonus.</text>
+		</trait>
+		<trait>
+			<name>Unnerving</name>
+			<text>You gain proficiency in the Intimidation skill, and you have advantage on any Charisma (Intimidation) rolls you make against a creature that hasn't previously seen you move.</text>
+		</trait>
+		<trait> 
+			<name>Languages</name>
+			<text>Geppettin can read and write Common as well as other languages based on their creator's race (your choice).</text>
+		</trait>
+	</race>
+	<!-- Marionette Geppettin -->
+	<race>
+		<name>Geppetin (Marionette)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Dex 2, Cha 1</ability>
+		<spellAbility></spellAbility>
+		<proficiency>Performance</proficiency>
+		<trait>
+			<name>Ability Score Increase</name>
+			<text>Increase one ability score of your choice by 2 and increase a different score by 1, or increase three different scores by 1.</text>
+			<text></text>
+			<text>Typical: Dexterity +2, Charisma +1</text>
+		</trait>
+		<trait>
+			<name>Creature Type</name>
+			<text> You are a Humanoid. However, spells and effects that specifically affect Constructs affect you as well </text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>You are Small </text>
+		</trait>
+		<trait>
+			<name>Speed </name>
+			<text> Your walking speed is 30 feet. </text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Geppettin have superior vision in dim light and darkness. You can see in dim light within 60 feet of you as if it was bright light, and darkness as if it was dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Construct Anatomy</name>
+			<text>Even though you were constructed, you are a living creature. You are immune to nonmagical diseases. You do not need to eat or breathe, but you can ingest food and drink if you wish. </text>
+			<text> </text>
+			<text>Instead of sleeping, you enter an inactive state for 4 hours each day. YOu do not dream in this state; you are fully aware of your surroundings and notice approaching enemies and other events as normal. You can still be placed into a torpor by sleep inducing magic</text>
+		</trait>
+		<trait>
+			<name>False Appearance</name>
+			<text>While you are motionless, you are indistinguishable from an ordinary porcelain doll.</text>
+		</trait>
+		<trait> 
+			<name>Clipped Strings</name>
+			<text>When you make an attack with a melee weapon that lacks the Two-Handed property on your turn, it gains the Reach property if it didn't already have it. </text>
+		</trait>
+		<trait>
+			<name>Pantomime</name>
+			<text>You gain proficiency in the Performance skill, and have advantage on Charisma (Performance) checks made to dance.</text>
+		</trait>
+	</race>
+	<!-- Plushie Geppettin -->
+	<race>
+		<name>Geppetin (Plushie)</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Dex 1, Cha 2</ability>
+		<spellAbility></spellAbility>
+		<proficiency>Persuasion</proficiency>
+		<trait>
+			<name>Ability Score Increase</name>
+			<text>Increase one ability score of your choice by 2 and increase a different score by 1, or increase three different scores by 1.</text>
+			<text></text>
+			<text>Typical: Dexterity +1, Charisma +2</text>
+		</trait>
+		<trait>
+			<name>Creature Type</name>
+			<text> You are a Humanoid. However, spells and effects that specifically affect Constructs affect you as well </text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>You are Small </text>
+		</trait>
+		<trait>
+			<name>Speed </name>
+			<text> Your walking speed is 30 feet. </text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>Geppettin have superior vision in dim light and darkness. You can see in dim light within 60 feet of you as if it was bright light, and darkness as if it was dim light. You can't discern color in darkness, only shades of gray.</text>
+		</trait>
+		<trait>
+			<name>Construct Anatomy</name>
+			<text>Even though you were constructed, you are a living creature. You are immune to nonmagical diseases. You do not need to eat or breathe, but you can ingest food and drink if you wish. </text>
+			<text> </text>
+			<text>Instead of sleeping, you enter an inactive state for 4 hours each day. YOu do not dream in this state; you are fully aware of your surroundings and notice approaching enemies and other events as normal. You can still be placed into a torpor by sleep inducing magic</text>
+		</trait>
+		<trait>
+			<name>False Appearance</name>
+			<text>While you are motionless, you are indistinguishable from an ordinary porcelain doll.</text>
+		</trait>
+		<trait> 
+			<name>Adorable</name>
+			<text>You gain proficiency in the Persusasion skill, and have advantage on Charisma (Persusasion) rolls you make against children or other humanoids that are fond of cute things.</text>
+		</trait>
+		<trait>
+			<name>Stuffed with Fluff</name>
+			<text>When you take bludgeoning damage, you can use your reaction to gain resistance to the damage, and you are also knocked 5 feet away from the source of the damage. You can't use this reaction if you can't be knocked away from the source of the damage.</text>
+		</trait>
+	</race>
+	<!-- Mandrake -->
+	<race>
+		<name>Mandrake</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Con 1, Wis 2</ability>
+		<spellAbility></spellAbility>
+		<proficiency>Persusasion</proficiency>
+		<trait>
+			<name>Ability Score Increase</name>
+			<text>Increase one ability score of your choice by 2 and increase a different score by 1, or increase three different scores by 1</text>
+			<text></text>
+			<text>Typical: Constitution +1, Wisdom +2</text>
+		</trait>
+		<trait>
+			<name>Creature Type</name>
+			<text>You are a Humanoid. However, spells and effects that specifically affent Plants affect you as well. </text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>You are Medium</text>
+		</trait>
+		<trait>
+			<name>Speed</name>
+			<text>Your walking speed is 30 feet</text>
+		</trait>
+		<trait>
+			<name>Plant Nature</name>
+			<text>Even though you are not fully a plant, you still pssess many of the same traits as one. As long as you are in direct sunlight for at least 4 hours a day, you don't need to eat. Additionally, you can breathe through your leaves and extremities and you can absorb water and nutrients through your feet.</text>
+		</trait>
+		<trait>
+			<name>Emissary of the Trees</name>
+			<text> You are proficient in the Nature skill. Additionally, you have advantage on Charisma (Persusasion) checks you make to interact with Beasts and Plants.</text>
+		</trait>
+		<trait>
+			<name>Root Magic</name>
+			<text>You know the shillelagh cantrip and you can target yourself with the spell, treating one of your limbs as a club for the duration of the spell. Starting at 3rd level, you can cast the goodberry spell with this trait, without requiring a material component. Starting at 5th level, you can cast the barkskin spell with this trait, without requiring a material component. Once you cast goodberry or barkskin with this trait, you can't cast that spell with it again until you finish a long rest YOu can also cast either of those spells using any spell slots you have of the approppriate level.</text>
+			<text></text>
+			<text>Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose one when you select this race)</text>
+		</trait>
+		<trait>Entangling Vines</trait>
+		<text>You can use your bonus action to cause grasping weeds and vines to sprout up from the ground around a Large or smaller creature you can see within 30 feet. Until the end of the creature's next turn, its speed becomes 0 and can't increase. This effect ends early if the creature takes the Disengage action. You can use this trait a number of times equal to your proficiency bonus and you regain all expended uses when you finish a long rest.</text>
+		<text></text>
+		<text>When you reach 3rd level, your Entangling Vines gain an additional effect based on the season in which you were harvested (choose when you select this race, list it in the "notes" section of your character)</text>
+		<text>Spring</text>
+		<text>Your Entangling Vines can target an airborne creature within 30 feet of the ground, which is pulled safely to the ground when you use this trait.</text>
+		<text></text>
+		<text>Summer</text>
+		<text>Your Entangling Vines can move the target up to 10 feet to an unoccupied space on the ground or on a floor</text>
+		<text/>
+		<text>Autumn</text>
+		<text>Your Entangling Vines can affect a second creature within 5 feet of the first target.</text>
+		<text/>
+		<text>Winter</text>
+		<text>The target takes cold damage equal to your proficiency bonus</text>
+		<text/>
+		<text>Source</text>
+		<text/>
+		<text>Valda's Spire of Secrets pg. 11</text>
+	</race>
+	<!-- Mousefolk -->
+	<race>
+		<name>Mousefolk</name>
+		<size>S</size>
+		<speed>30</speed>
+		<ability>Dex 2, Cha 1</ability>
+		<spellAbility/>
+		<proficiency>Stealth</proficiency>
+		<trait>
+			<name>Ability Score Incrase</name>
+			<text>Increase one ability score of your choice by 2 and increase a different score by 1, or increase three different scores by 1.</text>
+			<text/>
+			<text>Typical: Dexterity +2, Charisma +1</text>
+		</trait>
+		<trait>
+			<name>Creature Type</name>
+			<text>You are a Humanoid.</text>
+		</trait>
+		<trait>
+			<name>Speed</name>
+			<text>Your walking speed is 30 feet.</text>
+		</trait>
+		<trait>
+			<name>Darkvision</name>
+			<text>You can see in dim light within 60 feet of you as if it was bright light, and darkness as if it was only dim light. You can't discern color in darkness, only shades of gray. </text>
+		</trait>
+		<trait>
+			<name>Lightfooted</name>
+			<text>You have proficiency in the Stealth skill</text>
+		</trait>
+		<trait>
+			<name>Scurry</name>
+			<text>You can move through the space of any hostile creature as if it were difficult terrain.</text>
+		</trait>
+		<trait>
+			<name>Mousefolk Lineage</name>
+			<text>Mousefolk belong to a lineage of mouselings or ratlings. Choose one of the following lineage options:</text>
+			<text/>
+			<text>Mouseling's Sidestep</text>
+			<text>When a creature you can see makes an opportunity attack against you, you can use your reaction to impose disadvantage on the attack roll. You can't use this trait when wearing medium or heavy armor.</text>
+			<text/>
+			<text>Ratling's Gnaw</text>
+			<text>You can use your action to chew through and break a small nonmagical opject that isn't being worn or carried, like a rope or handle, or a length of fabric. If you chew on a wooden wall or floor for 1 minute, you can gnaw a hole large enough for a Tiny creature. You can't chew through materials that are harder than your teeth, such as metal, stone or crystal</text>
+		</trait>
+	</race>
+	<!-- Spirithost -->
+	<race>
+		<name>Spirithost</name>
+		<size>M</size>
+		<speed>30</speed>
+		<ability>Str 1, Dex 1, Int 1</ability>
+		<spellAbility/>
+		<proficiency></proficiency>
+		<trait>
+			<name>Ability Score Increase</name>
+			<text>Incrase one ability score of your choice by 2, and increase a different score by 1, or increase three different scores by 1</text>
+			<text/>
+			<text>Typical: Strength +1, Dexterity +1, Intelligence +1</text>
+		</trait>
+		<trait>
+			<name>Creature Type</name>
+			<text>You are a Humanoid. However, spells and effects that specifically affect Undead affect you as well, except for effects that turn undead.</text>
+		</trait>
+		<trait>
+			<name>Size</name>
+			<text>You are Medium</text>
+		</trait>
+		<trait>
+			<name>Speed</name>
+			<text>Your walking speed is 30 feet</text>
+		</trait>
+		<trait>
+			<name>Ethereal Vision</name>
+			<text>While you are on the Material plane you can see 120 feet into the Ethereal Plane.</text>
+		</trait>
+		<trait>
+			<name>Ghostly Descent</name>
+			<text>You float gently to the ground. At the end of a fall when you aren't incapacitated, subtract 60 feet from the distance you fell when calculating your fall damage</text>
+		</trait>
+		<trait>
+			<name>Incorporeal Movement</name>
+			<text>You can move through other creatures as if they were difficult terrain. You can also move through solid objects, but your partially material form can't pas through more than one foot of stone, one inch of common metal, a thin sheet of lead, and 3 feet of wood or dirt.</text>
+			<text>If you end your movement occupying the same spot as a solid object or creature, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to twice the number of feet you are moved.</text>
+		</trait>
+		<trait>
+			<name>Spirit Speech</name>
+			<text>You can cast the speak with dead spell, without requiring a material component. When you cast the spell using this trait, you can ask the corpse a number of questions equal to your proficiency bonus, and you can't cast the spell again until you finish a long rest. You can also cast this spell using any spell slots you have of the appropriate level.</text>
+			<text>Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell when you cast it with this trait (choose when you select this race)</text>
+		</trait>
+	</race>
+</compendium>

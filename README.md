@@ -2,6 +2,10 @@
 
 Creating XML files of all official D&D sources compatible with Fight Club 5e and Game Master 5e apps for iOS and Android.
 
+This is a fork of kinkofer's FightClub5eXML with my own added compendiums. List of added compendiums are as follows:
+
+Valda's Spire of Secrets
+
 ## How-to Use This Repository
 
 The files listed in this repository as-is are not compatible with Fight Club 5e. They are instead a collection of individual source files that must be compiled together into a "compendium". That resulting compendium can then be imported into and used by Fight Club 5e.

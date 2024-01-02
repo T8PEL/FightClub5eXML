@@ -476,4 +476,9 @@
     <doc href="../Sources/Homebrew.xml" />
     <doc href="../Sources/ThirdParty/TomeOfBeasts.xml" />
     <doc href="../Sources/ThirdParty/CreatureCodex.xml" />
+    
+    <!-- Valda's Spire of Secrets -->
+    <doc href="../Sources/ValdasSpireOfSecrets/vss-races.xml" />
+    <doc href="../Sources/ValdasSpireOfSecrets/vss-sorcerer.xml"/>
+    
 </collection>
