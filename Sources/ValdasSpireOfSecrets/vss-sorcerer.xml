@@ -70,10 +70,10 @@
 				<text>Source: Valda's Spire of Secrets p.249</text>
 			</feature>
 		</autolevel>
-	<!-- Sourcerous Origin: Mirrorkin -->
+	<!-- Sorcerous Origin: Mirrorkin -->
 		<autolevel level="1">
 			<feature optional="YES">
-				<name>Sourcerous Origin: Mirrorkin</name>
+				<name>Sorcerous Origin: Mirrorkin</name>
 				<text>One of your ancestors came from beyond the looking glass; a strange world where everything is a twisted reflection of the true reality. As such, you have inherited amazing powers of mimicry and illusion that allow you to copy other people's abilities. To fight against you is almost akin to fighting one's own mirror image, something few warriors would relish.</text>
 				<text/>
 				<text>Source: Valda's Spire of Secrets p.249</text>
@@ -130,6 +130,137 @@
 				<text>Source: Valda's Spire of Secrets p.249</text>
 			</feature>
 		</autolevel>
-	<!-- Sourcerous Origin: Oozemaster -->
+	<!-- Sorcerous Origin: Oozemaster -->
+		<autolevel level="1">
+			<feature optional="YES">
+				<name>Sorcerous Origin: Oozemaster</name>
+				<text>Your innate magic stems from a long family line of ooze-infused blood. For generations, the strange traits of oozes have run in your family line, afflicting some at birth and sparing others, stemming from a well-documented but shadowy ancestor. It's unclear what horrific experiment infused a monstrous ooze or slime into their body so long ago, but some of their scattered descendants are born to this day with innate magic and bizarre physical characteristics.</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.250</text>
+			</feature>
+		</autolevel>
+		<autolevel level="1">
+			<feature optional="YES">
+				<name>Oozemaster: Slime Magic</name>
+				<text>You learn additional spells when you reach certain levels in this class, as shown on the Slime Spells table. Each of these spells counts as a sorcerer spell for you but doesn't count against the number of sorcerer spells you know.</text>
+				<text/>
+				<text>Whenever you gain a sorcerer level, you can replace one spell you gained from this feature with another spell of the same level. The new spell must be a conjuration or a transmutation spell from the sorcerer, warlock, or wizard spell list.</text>
+				<text>Slime Spells
+				Sorcerer Level | Spells
+				1st | Disguise Self, Grease
+				3rd | Aberate, Melf's acid arrow
+				5th | Benign Dismemberment, Rusting Grasp
+				7th | Freedom of Movement, Stoneskin
+				9th | Evasiveness, Seeming</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.250</text>
+			</feature>
+		</autolevel>
+		<autolevel level="1">
+			<feature optional="YES">
+				<name>Oozemaster: Reform</name>
+				<text>Starting when you choose this origin at 1st level, your vaguely gelatinous flesh can mend itself when wounded. Whenever you take bludgeoning, piercing, or slashing damage from a nonmagical weapon and don't drop to 0 hit points, you can use your reaction to immediately regain 1d4 hit points, up to a maximum of the amount of damage taken.</text>
+				<text>The healing increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (14d4).</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.250</text>
+			</feature>
+		</autolevel>
+		<autolevel level="6">
+			<feature optional="YES">
+				<name>Oozemaster: Bouncy Body</name>
+				<text>By 6th level, you can expend 2 sorcery points as an action to create a duplicate of yourself made from a translucent ooze. If you spend an additional 3 sorcery points, you imbue this ooze duplicate with illusory magic, causing it to be indistinguishable from any humanoid you choose. The duplicate has the statistics of a commoner, but is an ooze instead of a humanoid. Additionally, it is formed with simulated clothing and equipment; this equipment is nonfunctional and melts into slime if it is not worn or carried by the duplicate.</text>
+				<text>The duplicate is friendly to you and creatures you designate. It obeys your spoken commands, moving and acting in accordance with your wishes, acting on your turn in combat.</text>
+				<text>The duplicate lasts for 24 hours or until it drops to 0 hit points, at which point it collapses into a large puddle of ooze.</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.250</text>
+			</feature>
+		</autolevel>
+		<autolevel level="14">
+			<feature optional="YES">
+				<name>Oozemaster: Bouncy Body</name>
+				<text>Beginning at 14th level, when a creature you can see misses you with a melee weapon attack, you can use your reaction to bounce the attack back at the attacker with your goopy body. The attacker repeats its attack against its own AC, dealing damage to itself as normal on a hit.</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.250</text>
+			</feature>
+		</autolevel>
+		<autolevel level="18">
+			<feature optional="YES">
+				<name>Oozemaster: Gelatinous Ally</name>
+				<text>Starting at 18th level, you can expend 6 sorcery points as an action to summon a gelatinous cube to envelop your enemies. Choose a space you can see within 120 feet for the cube to appear. If you summon the cube into a creature's space, the creature is immediately subject to the cube's Engulf.</text>
+				<text>The cube uses your spell attack bonus and spell save DC in place of its own attack bonus and save DCs. You are immune to the cube's acid damage, and you aren't subject to the cube's Engulf.</text>
+				<text>The cube is friendly to you and your companions. In combat, it rolls its own initiative and acts on its own turn. The cube obeys any verbal commands you issue to it (no action required). If you don't issue any commands to it, the cube defends itself from hostile creatures, but otherwise takes no actions. The GM has the gelatinous cube's statistics.</text>
+				<text>The cube dissolves into a sticky liquid when it drops to 0 hit points, or when you dismiss it as an action on your turn. You can only have one summoned gelatinous cube at a time.</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.250</text>
+			</feature>
+		</autolevel>
+	<!-- Sorcerous Origin: Reincarnated Hero -->	
+		<autolevel level="1">
+			<feature optional="YES">
+				<name>Sorcerous Origin: Reincarnated Hero</name>
+				<text>Sorcerers gain their powers in mysterious ways that they seldom have control over. You are the reincarnation of a legendary hero, known to have slain many terrible foes. Being called back to life, be it by the gods, a very powerful mage, or a persistent curse on your soul, has left the indelible mark of sorcery upon you and awakened your ancient instincts for battle.</text>
+			</feature>
+		</autolevel>
+		<autolevel level="1">
+			<feature optional="YES">
+				<name>Reincarnated Hero: Heroic Magic</name>
+				<text>The power of your previous life grants you the ability to learn spells that other sorcerers might never manifest. You learn two cantrips of your choice from the following, which don't count against your total number of spells known: arc blade, burning blade, caustic blade, force weapon, and frigid blade.</text>
+				<text>You also learn additional spells when you reach certain levels in this class, as shown on the Heroic Spells table. Each of these spells counts as a sorcerer spell for you but doesn't count against the number of sorcerer spells you know.</text>
+				<text>Whenever you gain a sorcerer level, you can replace one spell you gained from this feature with another spell of the same level. The new spell must be an abjuration or a transmutation spell from the sorcerer, warlock, or wizard spell list.</text>
+				<text>Heroic Spells
+					Sorcerer Level | Spells
+					1st | Heroism. Shield
+					3rd | Blur, Magic Weapon
+					5th | After Image, Haste
+					7th | Death Ward, Stoneskin
+					9th | Evasiveness, Legend Lore </text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.251</text>	
+			</feature>
+		</autolevel>
+		<autolevel level="1">
+			<feature optional="YES">
+				<name>Reincarnated Hero: Heroic Soul</name>
+				<text>At 1st level, you gain temporary hit points equal to your Charisma modifier whenever you make a melee weapon attack against a hostile creature within 5 feet of you.</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.251</text>
+			</feature>
+		</autolevel>
+		<autolevel level="1">
+			<feature optional="YES">
+				<name>Reincarnated Hero: Armored Sorcery</name>
+				<text>Also at 1st level, you gain proficiency with light armor, medium armor, shields, and four martial weapons of your choice.</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.251</text>
+			</feature>
+		</autolevel>
+		<autolevel level="6">
+			<feature optional="YES">
+				<name>Reincarnated Hero: Mystical Maneuvers</name>
+				<text>Beginning at 6th level, your instincts from your previous life kick in and enable you to perform a handful of special combat maneuvers. Once on each of your turns, you can spend 1 sorcery point as a bonus action to use one of the following maneuvers:</text>
+				<text>AEGIS STANCE: Make one melee weapon attack against a creature you can see. Whether or not you hit, your AC increases by 2 and your speed is reduced to 0 until the start of your next turn.</text>
+				<text>OVERHEAD THROW: Make one ranged weapon attack with a melee weapon you are holding, as if it had the Thrown (30/90) weapon property. After the attack, the weapon teleports back to your hand.</text>
+				<text>PARTING FLOURISH: Make one melee weapon attack against a creature you can see. You don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.251</text>
+			</feature>
+		</autolevel>
+		<autolevel level="14">
+			<feature optional="YES">
+				<name>Reincarnated Hero: Sorcerous Kindling</name>
+				<text>Starting at 14th level, the ebb and flow of battle hones your sorcery and fuels your magic. Once per turn, when you score a critical hit with a weapon attack against a hostile creature or reduce a hostile creature to 0 hit points with a weapon attack, you regain 2 sorcery points.</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.251</text>
+			</feature>
+		</autolevel>
+		<autolevel level="18">
+			<feature optional="YES">
+				<name>Reincarnated Hero: Heroic Legacy</name>
+				<text>Starting at 18th level, you can shrug off death in ways few of your previous lives could equal. Whenever you take more than 20 damage, you can use your reaction to reduce the damage taken to 20. When you do so, you have advantage on attack rolls, ability checks, and saving throws until the end of your next turn.</text>
+				<text/>
+				<text>Source: Valda's Spire of Secrets p.251</text>
+			</feature>
+		</autolevel>
+		
 	</class>
 </compendium>
